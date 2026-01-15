@@ -16,4 +16,5 @@ What I will bring:
 - Fusion 360 model
 
 Full Plan + BOM
+
 [BOM](https://docs.google.com/document/d/e/2PACX-1vQ0ssNzyhJEF3FpFiAyLGEXaUKHkRYoLOrRBAidYV5ManKBPaF_fq7NoqSav6IvK6zJQknT9mqp2-qP/pub) 
