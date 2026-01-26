@@ -18,3 +18,9 @@ What I will bring:
 Full Plan + BOM
 
 [BOM](https://docs.google.com/document/d/e/2PACX-1vQ0ssNzyhJEF3FpFiAyLGEXaUKHkRYoLOrRBAidYV5ManKBPaF_fq7NoqSav6IvK6zJQknT9mqp2-qP/pub) 
+
+Picture of PCB (Render)
+
+<img width="982" height="485" alt="Screenshot 2026-01-26 105952" src="https://github.com/user-attachments/assets/f1724555-e5a8-41d3-a9bc-bd23cf299d36" />
+<img width="1132" height="629" alt="Screenshot 2026-01-26 105958" src="https://github.com/user-attachments/assets/f89c5d98-d257-4a45-a184-e1c44d98a0c8" />
+<img width="1056" height="695" alt="Screenshot 2026-01-26 110119" src="https://github.com/user-attachments/assets/612f5e78-7aa8-4c73-8444-17069a2dedf7" />
