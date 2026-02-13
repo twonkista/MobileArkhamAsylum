@@ -11,8 +11,8 @@ Features:
 - toggle button (to toggle the aformentioned stuff)
 
 What I will bring:
-- KiCad Schematic + footprint
-- Arduino code (setup code done)
+- KiCad Schematic + footprint (done my g) (further improvements will be made like removing all voltage calculators im just gonna buy a voltimeter or steal one from someone)
+- Arduino code (code done)
 - Fusion 360 model
 
 Full Plan + BOM
